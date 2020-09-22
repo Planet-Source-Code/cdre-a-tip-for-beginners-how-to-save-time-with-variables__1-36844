@@ -1,0 +1,13 @@
+Integer -32.768 - 32.767 |Dim name% 
+
+Long -2.147.483.648 - 2.147.483.647 |Dim name&
+
+Single -3,402823E38 3,402823E38 | Dim name!
+
+Double -1,797693134862.. 1,797693134862.Dim name#
+
+Currency -922337203685477,5807
+922337203685477,5807  Dim name@
+ 
+String 0 -65.535 characters Dim name$
+Send any comment!
